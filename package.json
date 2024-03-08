@@ -1,0 +1,42 @@
+{
+  "name": "onedionys-charting-library-integration",
+  "version": "1.0.0",
+  "description": "One Dionys (Charting Library Integration) - Functions for integrating graphics libraries such as Chart.js or D3.js into web applications.",
+  "main": "src/chartingLibraryIntegration.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/onedionys/onedionys-charting-library-integration.git"
+  },
+  "keywords": [
+    "onedionys",
+    "tea",
+    "package-manager",
+    "charting-library-integration"
+  ],
+  "author": "One Dionys",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onedionys/onedionys-charting-library-integration/issues"
+  },
+  "homepage": "https://github.com/onedionys/onedionys-charting-library-integration#readme",
+  "devDependencies": {
+    "chai": "^5.1.0",
+    "mocha": "^10.3.0"
+  },
+  "dependencies": {
+    "chart.js": "^4.4.2",
+    "jquery": "^3.7.1",
+    "lodash": "^4.17.21",
+    "onedionys-image-gallery-component": "^1.0.0",
+    "onedionys-input-autocomplete": "^1.0.0",
+    "onedionys-progress-bar-component": "^1.0.0",
+    "onedionys-social-sharing-utilities": "^1.0.0",
+    "onedionys-websocket-wrapper": "^1.0.0"
+  }
+}
