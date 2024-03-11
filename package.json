@@ -1,6 +1,6 @@
 {
   "name": "onedionys-charting-library-integration",
-  "version": "1.0.1",
+  "version": "4.0.0",
   "description": "One Dionys (Charting Library Integration) - Functions for integrating graphics libraries such as Chart.js or D3.js into web applications.",
   "main": "src/chartingLibraryIntegration.js",
   "directories": {
